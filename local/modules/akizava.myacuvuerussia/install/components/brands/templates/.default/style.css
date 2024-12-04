@@ -1,0 +1,8 @@
+.bx-catalog-list-slider .slick-arrow:before, .bx-catalog-list-slider .slick-arrow.slick-next:before {
+    content: ""!important;
+}
+.btn-default {
+    background-color: #1b82bd;
+    border-color: #1b82bd;
+    color: #fff;
+}

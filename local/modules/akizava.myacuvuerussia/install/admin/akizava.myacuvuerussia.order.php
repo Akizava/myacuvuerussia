@@ -1,0 +1,1 @@
+<? require($_SERVER["DOCUMENT_ROOT"] . "/local/modules/akizava.myacuvuerussia/admin/akizava.myacuvuerussia.order.php"); ?>

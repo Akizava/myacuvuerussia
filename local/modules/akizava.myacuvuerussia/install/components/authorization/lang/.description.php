@@ -1,0 +1,6 @@
+<?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
+
+$MESS["MYACUVUE_AUTH_COMPONENT_PATH_ID"] = "myacuvue";
+$MESS["MYACUVUE_AUTH_COMPONENT_PATH_NAME"] = "MyAcuvue";
+$MESS["MYACUVUE_AUTH_COMPONENT"] = "Авторизация";
+$MESS["MYACUVUE_AUTH_COMPONENT_DESCRIPTION"] = "Авторизация в MyAcuvue";
